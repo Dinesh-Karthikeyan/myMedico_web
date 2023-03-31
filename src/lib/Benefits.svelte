@@ -1,7 +1,7 @@
 <script>
-    const locate = "/assets/location.png";
-    const doctor = "/assets/doctor.png";
-    const incognito = "/assets/incognito.png";
+    const locate = "/location.png";
+    const doctor = "/doctor.png";
+    const incognito = "/incognito.png";
 </script>
 
 <main>

@@ -1,5 +1,5 @@
 <script>
-    const src = "/assets/mobilehome.png";
+    const src = "./mobilehome.png";
 </script>
 
 <main>

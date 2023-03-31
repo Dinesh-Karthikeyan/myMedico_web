@@ -1,7 +1,7 @@
 <script>
     // const src = '../assets/logo.jpg'
     // const src = "D:\\coding\\web\\svelte\\two\\src\\assets\\logo.jpg"
-    const src = "assets/logo.jpg";
+    const src = "/logo.jpg";
 </script>
 
 <main>
